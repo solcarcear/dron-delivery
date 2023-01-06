@@ -1,0 +1,1 @@
+﻿Dron1,50,Dron2,20,Dron3,75,Dron4,15,Dron5,210,Dron6,25,Dron7,17,Dron8,13
