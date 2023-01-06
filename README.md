@@ -1,2 +1,2 @@
 # dron-delivery
-Test for Celozient
+Test for Velozient
